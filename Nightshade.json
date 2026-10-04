@@ -1,49 +1,49 @@
 {
-  "name": "Nightshade",
-  "description": "Clean, midnight-purple aesthetic",
-  "version": "3",
+  "name": "neptunes cradle",
+  "description": "purple",
+  "version": "1",
   "authors": [
     {
-      "name": "Theme author",
-      "id": "000000000000000000"
+      "name": "neptune",
+      "id": "1281416787614761000"
     }
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#F7A8FF"
+      "#B357FF"
     ],
     "BACKGROUND_BRAND": [
-      "#F7A8FF"
+      "#B357FF"
     ],
     "MENTION_FOREGROUND": [
-      "#F7A8FF"
+      "#B357FF"
     ],
     "TEXT_LINK": [
-      "#F7A8FF"
+      "#B357FF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#F7A8FF"
+      "#B357FF"
     ],
     "INTERACTIVE_HOVER": [
-      "#C55EFF"
+      "#8100EC"
     ],
     "CHANNELS_DEFAULT": [
-      "#E4AEFF"
+      "#F0B1FF"
     ],
     "CHANNEL_ICON": [
-      "#E4AEFF"
+      "#F0B1FF"
     ],
     "HEADER_SECONDARY": [
-      "#E4AEFF"
+      "#F0B1FF"
     ],
     "INTERACTIVE_MUTED": [
-      "#E4AEFF"
+      "#F0B1FF"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#E4AEFF"
+      "#F0B1FF"
     ],
     "TEXT_MUTED": [
-      "#E4AEFF"
+      "#F0B1FF"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
       "#080808"
@@ -148,28 +148,28 @@
       "#0D0D0D"
     ],
     "HEADER_PRIMARY": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "TEXT_DEFAULT": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "TEXT_NORMAL": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "TEXT_PRIMARY": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "TEXT_STRONG": [
-      "#E7A8FF"
+      "#F1DDFF"
     ],
     "ANDROID_RIPPLE": [
       "#5b2a82"
@@ -236,36 +236,36 @@
     ]
   },
   "rawColors": {
-    "BRAND_200": "#F7A8FF",
-    "BRAND_260": "#F7A8FF",
-    "BRAND_300": "#F7A8FF",
-    "BRAND_330": "#F7A8FF",
-    "BRAND_345": "#F7A8FF",
-    "BRAND_360": "#F7A8FF",
-    "BRAND_400": "#F7A8FF",
-    "BRAND_430": "#F7A8FF",
-    "BRAND_460": "#F7A8FF",
-    "BRAND_500": "#F7A8FF",
-    "BRAND_530": "#F7A8FF",
-    "BRAND_600": "#F7A8FF",
-    "BRAND_630": "#F7A8FF",
-    "BRAND_660": "#F7A8FF",
-    "BRAND_700": "#F7A8FF",
-    "PLUM_3": "#F7A8FF",
-    "PLUM_15": "#F7A8FF",
-    "PRIMARY_300": "#F7A8FF",
-    "PRIMARY_360": "#F7A8FF",
-    "PRIMARY_500": "#F7A8FF",
-    "PRIMARY_530": "#F7A8FF",
-    "BRAND_560": "#C55EFF",
-    "PRIMARY_400": "#C55EFF",
-    "PLUM_9": "#E4AEFF",
-    "PLUM_10": "#E4AEFF",
-    "PLUM_11": "#E4AEFF",
-    "PLUM_13": "#E4AEFF",
-    "PRIMARY_730": "#E4AEFF",
-    "ROLE_DEFAULT": "#E4AEFF",
-    "WHITE_630": "#E4AEFF",
+    "BRAND_200": "#B357FF",
+    "BRAND_260": "#B357FF",
+    "BRAND_300": "#B357FF",
+    "BRAND_330": "#B357FF",
+    "BRAND_345": "#B357FF",
+    "BRAND_360": "#B357FF",
+    "BRAND_400": "#B357FF",
+    "BRAND_430": "#B357FF",
+    "BRAND_460": "#B357FF",
+    "BRAND_500": "#B357FF",
+    "BRAND_530": "#B357FF",
+    "BRAND_600": "#B357FF",
+    "BRAND_630": "#B357FF",
+    "BRAND_660": "#B357FF",
+    "BRAND_700": "#B357FF",
+    "PLUM_3": "#B357FF",
+    "PLUM_15": "#B357FF",
+    "PRIMARY_300": "#B357FF",
+    "PRIMARY_360": "#B357FF",
+    "PRIMARY_500": "#B357FF",
+    "PRIMARY_530": "#B357FF",
+    "BRAND_560": "#8100EC",
+    "PRIMARY_400": "#8100EC",
+    "PLUM_9": "#F0B1FF",
+    "PLUM_10": "#F0B1FF",
+    "PLUM_11": "#F0B1FF",
+    "PLUM_13": "#F0B1FF",
+    "PRIMARY_730": "#F0B1FF",
+    "ROLE_DEFAULT": "#F0B1FF",
+    "WHITE_630": "#F0B1FF",
     "PLUM_17": "#080808",
     "PLUM_20": "#080808",
     "PLUM_24": "#080808",
@@ -284,15 +284,15 @@
     "PRIMARY_DARK_600": "#0D0D0D",
     "PRIMARY_DARK_630": "#0D0D0D",
     "PRIMARY_DARK_660": "#0D0D0D",
-    "BRAND_730": "#E7A8FF",
-    "PLUM_1": "#E7A8FF",
-    "PLUM_4": "#E7A8FF",
-    "PLUM_6": "#E7A8FF",
-    "PRIMARY_100": "#E7A8FF",
-    "PRIMARY_200": "#E7A8FF",
-    "PRIMARY_330": "#E7A8FF",
-    "PRIMARY_DARK_200": "#E7A8FF",
-    "WHITE_500": "#E7A8FF",
+    "BRAND_730": "#F1DDFF",
+    "PLUM_1": "#F1DDFF",
+    "PLUM_4": "#F1DDFF",
+    "PLUM_6": "#F1DDFF",
+    "PRIMARY_100": "#F1DDFF",
+    "PRIMARY_200": "#F1DDFF",
+    "PRIMARY_330": "#F1DDFF",
+    "PRIMARY_DARK_200": "#F1DDFF",
+    "WHITE_500": "#F1DDFF",
     "BLACK_500": "#000000b2",
     "PLUM_18": "#101012",
     "PRIMARY_645": "#101012",
@@ -305,12 +305,12 @@
   "plus": {
     "version": 0,
     "customOverlays": true,
-    "iconpack": "rosiecord-plumpy"
+    "iconpack": "solar"
   },
   "spec": 2,
   "background": {
-    "url": "https://kommodo.ai/i/wKRsMOBHYs83TGA1EuHZ",
-    "alpha": 1,
+    "url": "https://cdn.discordapp.com/attachments/1552083230939816030/1556235734942228580/0yi1ts8m.jpg?backend=b2&ex=6ac36cf8&is=6ac21b78&hm=0ad823c12bc4129a24ec64be86d56688f2fa351e74c93fe8459d4db039be753b&",
+    "alpha": 0.63,
     "size": "cover",
     "position": "center"
   }
