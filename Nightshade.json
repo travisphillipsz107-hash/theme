@@ -1,0 +1,317 @@
+{
+  "name": "Nightshade",
+  "description": "Clean, midnight-purple aesthetic",
+  "version": "3",
+  "authors": [
+    {
+      "name": "Theme author",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#F7A8FF"
+    ],
+    "BACKGROUND_BRAND": [
+      "#F7A8FF"
+    ],
+    "MENTION_FOREGROUND": [
+      "#F7A8FF"
+    ],
+    "TEXT_LINK": [
+      "#F7A8FF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#F7A8FF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#C55EFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#E4AEFF"
+    ],
+    "CHANNEL_ICON": [
+      "#E4AEFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#E4AEFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#E4AEFF"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#E4AEFF"
+    ],
+    "TEXT_MUTED": [
+      "#E4AEFF"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#080808"
+    ],
+    "CHAT_BACKGROUND": [
+      "#080808"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#080808"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#080808"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#080808"
+    ],
+    "HOME_BACKGROUND": [
+      "#080808"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#080808"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0D0D0D"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0D0D0D"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0D0D0D"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0D0D0D"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0D0D0D"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#0D0D0D"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0D0D0D"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#0D0D0D"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#0D0D0D"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#0D0D0D"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#0D0D0D"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#0D0D0D"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#0D0D0D"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#0D0D0D"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "EMBED_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#0D0D0D"
+    ],
+    "KEYBOARD": [
+      "#0D0D0D"
+    ],
+    "PANEL_BG": [
+      "#0D0D0D"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#0D0D0D"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#0D0D0D"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0D0D0D"
+    ],
+    "HEADER_PRIMARY": [
+      "#E7A8FF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#E7A8FF"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#E7A8FF"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#E7A8FF"
+    ],
+    "TEXT_DEFAULT": [
+      "#E7A8FF"
+    ],
+    "TEXT_NORMAL": [
+      "#E7A8FF"
+    ],
+    "TEXT_PRIMARY": [
+      "#E7A8FF"
+    ],
+    "TEXT_STRONG": [
+      "#E7A8FF"
+    ],
+    "ANDROID_RIPPLE": [
+      "#5b2a82"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(114,0,0,0.1)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(170,0,0,0.1)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FFFFFF0D"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#FFFFFF12"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FFFFFF14"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FFFFFF0F"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FFFFFF1A"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT": [
+      "#43b58133"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
+      "#43b5814d"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#121214"
+    ],
+    "BG_BACKDROP": [
+      "#000000b2"
+    ],
+    "BORDER_FAINT": [
+      "#FFFFFF12"
+    ],
+    "BORDER_SUBTLE": [
+      "#FFFFFF1C"
+    ],
+    "BORDER_STRONG": [
+      "#FFFFFF26"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#FFFFFF1A"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER": [
+      "#7f007b"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "TEXT_SECONDARY": [
+      "#d79dff"
+    ]
+  },
+  "rawColors": {
+    "BRAND_200": "#F7A8FF",
+    "BRAND_260": "#F7A8FF",
+    "BRAND_300": "#F7A8FF",
+    "BRAND_330": "#F7A8FF",
+    "BRAND_345": "#F7A8FF",
+    "BRAND_360": "#F7A8FF",
+    "BRAND_400": "#F7A8FF",
+    "BRAND_430": "#F7A8FF",
+    "BRAND_460": "#F7A8FF",
+    "BRAND_500": "#F7A8FF",
+    "BRAND_530": "#F7A8FF",
+    "BRAND_600": "#F7A8FF",
+    "BRAND_630": "#F7A8FF",
+    "BRAND_660": "#F7A8FF",
+    "BRAND_700": "#F7A8FF",
+    "PLUM_3": "#F7A8FF",
+    "PLUM_15": "#F7A8FF",
+    "PRIMARY_300": "#F7A8FF",
+    "PRIMARY_360": "#F7A8FF",
+    "PRIMARY_500": "#F7A8FF",
+    "PRIMARY_530": "#F7A8FF",
+    "BRAND_560": "#C55EFF",
+    "PRIMARY_400": "#C55EFF",
+    "PLUM_9": "#E4AEFF",
+    "PLUM_10": "#E4AEFF",
+    "PLUM_11": "#E4AEFF",
+    "PLUM_13": "#E4AEFF",
+    "PRIMARY_730": "#E4AEFF",
+    "ROLE_DEFAULT": "#E4AEFF",
+    "WHITE_630": "#E4AEFF",
+    "PLUM_17": "#080808",
+    "PLUM_20": "#080808",
+    "PLUM_24": "#080808",
+    "PLUM_25": "#080808",
+    "PRIMARY_600": "#080808",
+    "PRIMARY_DARK_700": "#080808",
+    "PRIMARY_DARK_800": "#080808",
+    "PLUM_16": "#0D0D0D",
+    "PLUM_19": "#0D0D0D",
+    "PLUM_21": "#0D0D0D",
+    "PLUM_22": "#0D0D0D",
+    "PRIMARY_460": "#0D0D0D",
+    "PRIMARY_630": "#0D0D0D",
+    "PRIMARY_660": "#0D0D0D",
+    "PRIMARY_700": "#0D0D0D",
+    "PRIMARY_DARK_600": "#0D0D0D",
+    "PRIMARY_DARK_630": "#0D0D0D",
+    "PRIMARY_DARK_660": "#0D0D0D",
+    "BRAND_730": "#E7A8FF",
+    "PLUM_1": "#E7A8FF",
+    "PLUM_4": "#E7A8FF",
+    "PLUM_6": "#E7A8FF",
+    "PRIMARY_100": "#E7A8FF",
+    "PRIMARY_200": "#E7A8FF",
+    "PRIMARY_330": "#E7A8FF",
+    "PRIMARY_DARK_200": "#E7A8FF",
+    "WHITE_500": "#E7A8FF",
+    "BLACK_500": "#000000b2",
+    "PLUM_18": "#101012",
+    "PRIMARY_645": "#101012",
+    "PRIMARY_800": "#101012",
+    "GREEN_500": "#43b581",
+    "RED_500": "#7f007b",
+    "ORANGE_500": "#faa61a",
+    "YELLOW_500": "#faa61a"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://kommodo.ai/i/wKRsMOBHYs83TGA1EuHZ",
+    "alpha": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
